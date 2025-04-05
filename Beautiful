@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>For Someone Special</title>
+  <style>
+    body {
+      background: linear-gradient(to right, #ffc0cb, #ffe4e1);
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      text-align: center;
+      padding: 50px;
+      color: #d6336c;
+    }
+    h1 {
+      font-size: 3em;
+      margin-bottom: 0.2em;
+    }
+    p {
+      font-size: 1.5em;
+      margin-top: 0;
+    }
+    .heart {
+      font-size: 5em;
+      animation: pulse 1.5s infinite;
+    }
+    @keyframes pulse {
+      0% { transform: scale(1); }
+      50% { transform: scale(1.2); }
+      100% { transform: scale(1); }
+    }
+    .note {
+      margin-top: 30px;
+      font-size: 1.2em;
+      color: #6a1b4d;
+    }
+  </style>
+</head>
+<body>
+  <div class="heart">❤️</div>
+  <h1>Hey Beautiful Girl!</h1>
+  <p>You’re not just beautiful… you’re pure magic!</p>
+  <p>This little page is just here to make you smile today.</p>
+  <div class="note">
+    — From someone who thinks you’re super special
+  </div>
+</body>
+</html>
+
+You can host this on Netlify, Vercel, or even GitHub Pages — totally free.
+
+Want me to add her name, a photo, or some romantic music in the background? I got you! Just say the word.
+
+Of course, bro! Here's the same cute webpage in English, made to impress that sweet girl:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>For Someone Special</title>
+  <style>
+    body {
+      background: linear-gradient(to right, #ffc0cb, #ffe4e1);
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      text-align: center;
+      padding: 50px;
+      color: #d6336c;
+    }
+    h1 {
+      font-size: 3em;
+      margin-bottom: 0.2em;
+    }
+    p {
+      font-size: 1.5em;
+      margin-top: 0;
+    }
+    .heart {
+      font-size: 5em;
+      animation: pulse 1.5s infinite;
+    }
+    @keyframes pulse {
+      0% { transform: scale(1); }
+      50% { transform: scale(1.2); }
+      100% { transform: scale(1); }
+    }
+    .note {
+      margin-top: 30px;
+      font-size: 1.2em;
+      color: #6a1b4d;
+    }
+  </style>
+</head>
+<body>
+  <div class="heart">❤️</div>
+  <h1>Hey Beautiful Girl!</h1>
+  <p>You’re not just beautiful… you’re pure magic!</p>
+  <p>This little page is just here to make you smile today.</p>
+  <div class="note">
+    — From someone who thinks you’re super special
+  </div>
+</body>
+</html>
+
